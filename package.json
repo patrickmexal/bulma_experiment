@@ -1,0 +1,22 @@
+{
+  "name": "bulma_experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickmexal/bulma_experiment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickmexal/bulma_experiment/issues"
+  },
+  "homepage": "https://github.com/patrickmexal/bulma_experiment#readme",
+  "dependencies": {
+    "bulma": "^0.6.2"
+  }
+}
