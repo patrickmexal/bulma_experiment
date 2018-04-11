@@ -4,16 +4,20 @@
 }*/
 .hero-body {
 	text-align: center;
-	background-image: url("../images/abstract1.jpg");
+	background-image: url("../images/zen.jpg");
 	min-height: 265px;
 }
 #jumbo {
 	margin-top: 30px;
 	font-size: 6em;
 	font-weight: bolder;
+	color: white;
+	text-shadow: 2px 2px black;
 }
 #subJumbo {
 	font-size: 2em;
+	color: white;
+	text-shadow: 2px 2px black;
 }
 img {
 	width: 100%;
